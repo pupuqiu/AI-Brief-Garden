@@ -1,0 +1,28 @@
+
+> ai-brief-garden@0.1.0 dev
+> next dev -p 4321
+
+[?25h
+
+> ai-brief-garden@0.1.0 dev
+> next dev -p 4321
+
+  ▲ Next.js 14.2.33
+  - Local:        http://localhost:4321
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1756ms
+ ○ Compiling / ...
+ ✓ Compiled / in 965ms (506 modules)
+ GET / 307 in 1045ms
+ GET / 307 in 22ms
+ ✓ Compiled /daily/[date] in 129ms (526 modules)
+ GET /daily/2026-05-21 200 in 310ms
+ ✓ Compiled /api/briefs in 68ms (292 modules)
+ GET /api/briefs 200 in 103ms
+ GET /api/briefs 200 in 100ms
+ ✓ Compiled /brief/[id] in 145ms (516 modules)
+ ✓ Compiled /api/briefs/[id] in 29ms (294 modules)
+ GET /api/briefs/2026-05-21-5b6e2c42 200 in 181ms
+ GET /api/briefs/2026-05-21-5b6e2c42 200 in 183ms
